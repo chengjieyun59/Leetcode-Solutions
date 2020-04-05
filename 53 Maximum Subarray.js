@@ -3,7 +3,6 @@
  * @param {number[]} nums
  * @return {number}
  * O(1) space, O(n) time.
- * 
  * Kadane's algorithm
  * currMax is the maximum sum up to the current index
  * absMax is the absolute maximum of a contiguous subarray

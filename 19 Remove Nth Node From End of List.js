@@ -5,8 +5,6 @@
  *     this.val = val;
  *     this.next = null;
  * }
- */
-/**
  * @param {ListNode} head
  * @param {number} n
  * @return {ListNode}
